@@ -1,5 +1,5 @@
 # ML100Days
-## Natural language processing marathon (coding challenge)
+## Natural language processing marathon
 ### Part 1
 |       | Task                                                                                       | Initial commit | Update     | Note                           |
 |-------|--------------------------------------------------------------------------------------------|----------------|------------|--------------------------------|
