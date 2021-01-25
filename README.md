@@ -1,6 +1,6 @@
 # ML100Days
 ## Natural language processing marathon
-### Part 1
+### Part 1: Machine learning
 
 |        | Task                                                                         | Initial commit | Update     | Note                           |
 |--------|----------------------------------------------------------------------------- |----------------|------------|--------------------------------|
@@ -14,3 +14,5 @@
 | Day 8  |                                                                             |                |            |                                |
 | Day 9  |                                                                             |                |            |                                |
 | Day 10 |                                                                             |                |            |                                |
+
+### Part 2: Deep learning
