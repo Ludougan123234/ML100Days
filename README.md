@@ -13,7 +13,7 @@
 | Day 7  | Word segmentation - Ckiptagger                                               | 2021/01/25      |            |                                |
 | Day 8  | N-gram <br>(bigram counts, bigram probability)                               | 2021/01/26      |            |                                |
 | Day 9  | N-gram <br>(basic language model / next word prediction using n-gram)        | 2021/01/27      | 2021/01/27 | Added comments                 |
-| Day 10 |                                                                              |                 |            |                                |
+| Day 10 | Part-of-speech tagging  -  introduction                                      | 2021/02/02      |            |                                |
 | Day 11 |                                                                              |                 |            |                                |
 | Day 12 |                                                                              |                 |            |                                |
 | Day 13 |                                                                              |                 |            |                                |
