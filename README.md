@@ -17,6 +17,6 @@
 | Day 11 | Part-of-speech tagging using jieba                                           | 2021/02/02      |            |                                |
 | Day 12 | Bag-of-words - introduction                                                  | 2021/02/03      |            |                                |
 | Day 13 | Stemming and lemmatization - introduction                                    | 2021/02/08      |            |                                |
-| Day 14 |                                                                              |                 |            |                                |
+| Day 14 | Text preprocessing (regex, text segmentation, stop words & stemming)         |                 |            |                                |
 
 ### Part 2: Deep learning
