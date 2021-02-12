@@ -18,5 +18,7 @@
 | Day 12 | Bag-of-words - introduction                                                  | 2021/02/03      |            |                                |
 | Day 13 | Stemming and lemmatization - introduction                                    | 2021/02/08      |            |                                |
 | Day 14 | Text preprocessing (regex, text segmentation, stop words & stemming)         | 2021/02/09      | 2021/02/09 | Added comments                 |
+| Day 15 | Term Frequency - Inverted Document Frequency (TF-IDF               )         | 2021/02/12      |            |                                |
+
 
 ### Part 2: Deep learning
