@@ -20,5 +20,6 @@
 | Day 14 | Text preprocessing (regex, text segmentation, stop words & stemming)         | 2021/02/09      | 2021/02/09 | Added comments                 |
 | Day 15 | Term Frequency - Inverted Document Frequency (TF-IDF)                        | 2021/02/12      |            |                                |
 | Day 16 | Word embedding & SVD (Singular value decomposition)                          | 2021/02/18      |            |                                |
+| Day 16 | Word embedding, SVD, KNN, PPMI, TF-IDF & Co-occurrence matrix                | 2021/02/19      |            |                                |
 
 ### Part 2: Deep learning
