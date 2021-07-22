@@ -21,7 +21,8 @@
 | Day 15 | Term Frequency - Inverted Document Frequency (TF-IDF)                        | 2021/02/12      |            |                                |
 | Day 16 | Word embedding & SVD (Singular value decomposition)                          | 2021/02/18      |            |                                |
 | Day 17 | Word embedding, SVD, KNN, PPMI, TF-IDF & Co-occurrence matrix                | 2021/02/19      |            |                                |
-| Day 18 | Individual research assignment - LDA/PCA/Supervised & unsupervised learning  | 2021/02/25      |            |                                |
+| Day 18 | Individual research - LDA/PCA/Supervised & unsupervised learning             | 2021/02/25      |            |                                |
+|                                                                                                                                                       |
 
 
 ### Part 2: Deep learning
