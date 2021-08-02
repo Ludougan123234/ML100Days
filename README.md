@@ -23,7 +23,10 @@
 | Day 17 | Word embedding, SVD, KNN, PPMI, TF-IDF & Co-occurrence matrix                | 2021/02/19      |            |                                |
 | Day 18 | Individual research - LDA/PCA/Supervised & unsupervised learning             | 2021/02/25      |            |                                |
 | Day 19 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
-|                                                                                                                                                       |
+| Day 20 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
+| Day 21 | Naive Bayes - individual research assignment                                 | 2021/08/01      |            |                                |
+| Day 22 | Naive Bayes (hand craft)                                                     | 2021/08/02      |            |                                |
+
 
 
 ### Part 2: Deep learning
