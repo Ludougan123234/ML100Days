@@ -25,7 +25,8 @@
 | Day 19 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
 | Day 20 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
 | Day 21 | Naive Bayes - individual research assignment                                 | 2021/08/01      |            |                                |
-| Day 22 | Naive Bayes (hand craft)                                                     | 2021/08/02      |            |                                |
+| Day 22 | Naive Bayes (hand craft)                                                     | 2021/08/02      | 2021/08/03 | Added comments                 |
+| Day 23 | Naive Bayes (with scikit learn)                                              | 2021/08/03      |            |                                |
 
 
 
