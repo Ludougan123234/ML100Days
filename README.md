@@ -27,6 +27,7 @@
 | Day 21 | Naive Bayes - individual research assignment                                 | 2021/08/01      |            |                                |
 | Day 22 | Naive Bayes (hand craft)                                                     | 2021/08/02      | 2021/08/03 | Added comments                 |
 | Day 23 | Naive Bayes (with scikit learn)                                              | 2021/08/03      |            |                                |
+| Day 24 | Decision tree <br>(Information gain)                                         | 2021/08/05      |            |                                |
 
 
 
