@@ -1,5 +1,7 @@
 # ML100Days
 ## Natural language processing marathon
+
+Hello there, this is my github repository where I push my assignment for the natural langauge processin online bootcamp hosted by Cupoy. Below is a table showing the topic of each task. The tasks were originally designed to be completed on a daily basis, but since I am still in school and sometimes have tests, research projects going on, I wasn't able to do the assignment daily. However, I'll try to do so whenever I can :). 
 ### Part 1: Machine learning
 
 |        | Task                                                                         | Initial commit  | Update     | Note                           |
@@ -22,6 +24,7 @@
 | Day 16 | Word embedding & SVD (Singular value decomposition)                          | 2021/02/18      |            |                                |
 | Day 17 | Word embedding, SVD, KNN, PPMI, TF-IDF & Co-occurrence matrix                | 2021/02/19      |            |                                |
 | Day 18 | Individual research - LDA/PCA/Supervised & unsupervised learning             | 2021/02/25      |            |                                |
+|  Working on my individual research project for a mandatory course                                                                                     |
 | Day 19 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
 | Day 20 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
 | Day 21 | Naive Bayes - individual research assignment                                 | 2021/08/01      |            |                                |
