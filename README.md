@@ -1,5 +1,7 @@
 # ML100Days
 ## Natural language processing marathon
+
+Hello there, this is my github repository where I push my assignment for the <b>natural langauge processin online bootcamp </b> hosted by Cupoy. Below is a table showing the topic of each task. The tasks were originally designed to be completed on a daily basis, but as a student, I have to say that keeping the homeworks done on a daily basis is beyond my capacity. So, I do this whenever I can (mostly during winter and summer vacations). 
 ### Part 1: Machine learning
 
 |        | Task                                                                         | Initial commit  | Update     | Note                           |
@@ -22,12 +24,15 @@
 | Day 16 | Word embedding & SVD (Singular value decomposition)                          | 2021/02/18      |            |                                |
 | Day 17 | Word embedding, SVD, KNN, PPMI, TF-IDF & Co-occurrence matrix                | 2021/02/19      |            |                                |
 | Day 18 | Individual research - LDA/PCA/Supervised & unsupervised learning             | 2021/02/25      |            |                                |
+|        | Working on an individual research project for a mandatory course                                                                             |
 | Day 19 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
 | Day 20 | K-nearest neighbors algorithm practice with sklearn                          | 2021/07/22      |            |                                |
 | Day 21 | Naive Bayes - individual research assignment                                 | 2021/08/01      |            |                                |
 | Day 22 | Naive Bayes (hand craft)                                                     | 2021/08/02      | 2021/08/03 | Added comments                 |
 | Day 23 | Naive Bayes (with scikit learn)                                              | 2021/08/03      |            |                                |
-| Day 24 | Decision tree <br>(Information gain)                                         | 2021/08/05      |            |                                |
+| Day 24 | Decision tree <br>(Information gain)                                         | 2021/08/05      | 2021/08/28 | Added comments                 |
+|        | Preparing for a test                                                         |                 |            |                                |
+| Day 25 | Bias-variance tradeoff                                                       | 2021/08/28      |            |                                |
 
 
 
