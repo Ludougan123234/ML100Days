@@ -38,3 +38,6 @@ Hello there, this is my github repository where I push my assignment for the <b>
 
 
 ### Part 2: Deep learning (homework_DL)
+|        | Task                                                                         | Initial commit  | Update     | Note                           |
+|--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
+| Day 1  | Google colab setup                                                           | 2021/08/31      |            |                                |
