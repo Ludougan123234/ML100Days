@@ -33,6 +33,7 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 24 | Decision tree <br>(Information gain)                                         | 2021/08/05      | 2021/08/28 | Added comments                 |
 |        | Preparing for a test                                                         |                 |            |                                |
 | Day 25 | Bias-variance tradeoff                                                       | 2021/08/28      |            |                                |
+| Day 26 | Ensemble learning - Blending vs. Stacking                                    | 2021/08/30      |            |                                |
 
 
 
