@@ -2,7 +2,7 @@
 ## Natural language processing marathon
 
 Hello there, this is my github repository where I push my assignment for the <b>natural langauge processin online bootcamp</b> hosted by Cupoy. Below is a table showing the topic of each task. The tasks were originally designed to be completed on a daily basis, but as a student, I have to say that keeping the homeworks done on a daily basis is beyond my capacity. So, I do this whenever I can (mostly during winter and summer vacations), and I also try to review the previously completed notebooks when not writing new assignments. 
-### Part 1: Machine learning
+### Part 1: Machine learning (homework_ML)
 
 |        | Task                                                                         | Initial commit  | Update     | Note                           |
 |--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
@@ -37,4 +37,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 
 
 
-### Part 2: Deep learning
+### Part 2: Deep learning (homework_DL)
