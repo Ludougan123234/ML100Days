@@ -42,4 +42,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 |        | Task                                                                         | Initial commit  | Update     | Note                           |
 |--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
 | Day 1  | Google colab setup                                                           | 2021/08/31      |            |                                |
-| Day 2  | Tensor operation / Pytorch                                                   | 2021/09/11      |            |                                |
+| Day 2  | Tensor operation / Pytorch                                                   | 2021/09/01      |            |                                |
