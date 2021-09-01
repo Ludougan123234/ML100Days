@@ -34,6 +34,7 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 25 | Bias-variance tradeoff                                                       | 2021/08/28      |            |                                |
 | Day 26 | Ensemble learning - Blending vs. Stacking                                    | 2021/08/30      |            |                                |
 | Day 27 | Implementation of random forest and decision tree                            | 2021/08/31      |            |                                |
+| Day 28 | Tree-based models using Scikitlearn                                          | 2021/09/01      |            |                                |
 
 
 
