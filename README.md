@@ -11,8 +11,8 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 3  | Regular expression (Regex)                                                   | 2021/01/20      | 2021/01/20 | Changed filename formatting    |
 | Day 4  | Regular expression (Regex) in python                                         | 2021/01/21      | 2021/01/21 |                                |
 | Day 5  | Word segmentation - introduction <br>(Markov Model, HMM, Viterbi algorithm)  | 2021/01/22      | 2021/01/23 | Added comparison with solution |
-| Day 6  | Word segmentation - jieba                                                    | 2021/01/24      |            |                                |
-| Day 7  | Word segmentation - Ckiptagger                                               | 2021/01/25      |            |                                |
+| Day 6  | Word segmentation with jieba                                                 | 2021/01/24      |            |                                |
+| Day 7  | Word segmentation with Ckiptagger                                            | 2021/01/25      |            |                                |
 | Day 8  | N-gram <br>(bigram counts, bigram probability)                               | 2021/01/26      |            |                                |
 | Day 9  | N-gram <br>(basic language model / next word prediction using n-gram)        | 2021/01/27      | 2021/01/27 | Added comments                 |
 | Day 10 | Part-of-speech tagging  -  introduction                                      | 2021/02/02      |            |                                |
@@ -42,3 +42,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 |        | Task                                                                         | Initial commit  | Update     | Note                           |
 |--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
 | Day 1  | Google colab setup                                                           | 2021/08/31      |            |                                |
+| Day 2  | Tensor operation / Pytorch                                                   | 2021/09/11      |            |                                |
