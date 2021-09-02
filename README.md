@@ -4,7 +4,7 @@
 Hello there, this is my github repository where I push my assignment for the <b>natural langauge processin online bootcamp</b> hosted by Cupoy. Below is a table showing the topic of each task. The tasks were originally designed to be completed on a daily basis, but as a student, I have to say that keeping the homeworks done on a daily basis is beyond my capacity. So, I do this whenever I can (mostly during winter and summer vacations), and I also try to review the previously completed notebooks when not writing new assignments. 
 ### Part 1: Machine learning (homework_ML)
 
-|        | Task                                                                         | Initial commit  | Update     | Note                           |
+|Task #  | Task                                                                         | Initial commit  | Update     | Note                           |
 |--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
 | Day 1  | Python string operation                                                      | 2021/01/18      | 2021/01/21 | Changed filename formatting    |
 | Day 2  | Python string operation                                                      | 2021/01/19      | 2021/01/21 | Changed filename formatting    |
@@ -35,11 +35,12 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 26 | Ensemble learning - Blending vs. Stacking                                    | 2021/08/30      |            |                                |
 | Day 27 | Implementation of random forest and decision tree                            | 2021/08/31      |            |                                |
 | Day 28 | Tree-based models using Scikitlearn                                          | 2021/09/01      |            |                                |
-
+| Day 29 | <b>Final project 1</b> <br>n-gram based word recommendation system (Part 1)  | 2021/09/02      |            | Dataset: Chinese wiki, 119 entries |
 
 
 ### Part 2: Deep learning (homework_DL)
-|        | Task                                                                         | Initial commit  | Update     | Note                           |
+|Task #  | Task                                                                         | Initial commit  | Update     | Note                           |
 |--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
 | Day 1  | Google colab setup                                                           | 2021/08/31      |            |                                |
 | Day 2  | Tensor operation / Pytorch                                                   | 2021/09/01      |            |                                |
+| Day 3  | Pytorch `autograd` / differentiation / backpropagation                       | 2021/09/02      |            |                                |
