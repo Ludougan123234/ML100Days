@@ -35,7 +35,7 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 26 | Ensemble learning - Blending vs. Stacking                                    | 2021/08/30      |            |                                |
 | Day 27 | Implementation of random forest and decision tree                            | 2021/08/31      |            |                                |
 | Day 28 | Tree-based models using Scikitlearn                                          | 2021/09/01      |            |                                |
-| Day 29 | <b>Final project 1</b> n-gram based word recommendation system               | 2021/09/02      |            | Dataset: Chinese wiki, 119 entries |
+| Day 29 | <b>Final project 1</b> <br>n-gram based word recommendation system (Part 1)  | 2021/09/02      |            | Dataset: Chinese wiki, 119 entries |
 
 
 ### Part 2: Deep learning (homework_DL)
