@@ -20,8 +20,8 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 12 | Bag-of-words - introduction                                                  | 2021/02/03      |            |                                |
 | Day 13 | Stemming and lemmatization - introduction                                    | 2021/02/08      |            |                                |
 | Day 14 | Text preprocessing (regex, text segmentation, stop words & stemming)         | 2021/02/09      | 2021/02/09 | Added comments                 |
-| Day 15 | Term Frequency - Inverted Document Frequency (TF-IDF)                        | 2021/02/12      |            |                                |
-| Day 16 | Word embedding & SVD (Singular value decomposition)                          | 2021/02/18      |            |                                |
+| Day 15 | Term Frequency - Inverted Document Frequency (TF-IDF)                        | 2021/02/12      | 2021/09/04 | Added comments                 |
+| Day 16 | Word embedding & SVD (Singular value decomposition)                          | 2021/02/18      | 2021/09/04 | Added comments                 |
 | Day 17 | Word embedding, SVD, KNN, PPMI, TF-IDF & Co-occurrence matrix                | 2021/02/19      |            |                                |
 | Day 18 | Individual research - LDA/PCA/Supervised & unsupervised learning             | 2021/02/25      |            |                                |
 |        | Working on an individual research project for a mandatory course                                                                             |
@@ -35,8 +35,9 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 26 | Ensemble learning - Blending vs. Stacking                                    | 2021/08/30      |            |                                |
 | Day 27 | Implementation of random forest and decision tree                            | 2021/08/31      |            |                                |
 | Day 28 | Tree-based models using Scikitlearn                                          | 2021/09/01      |            |                                |
-| Day 29 | <b>Final project 1</b> <br>n-gram based word recommendation system (Part 1)  | 2021/09/02      |            | Dataset: Chinese wiki, 119 entries |
-| Day 29 | <b>Final project 1</b> <br>n-gram based word recommendation system (Part 2)  | 2021/09/02      |            | Implement interpolation and base-off smoothing |
+| Day 29 | <b>Final project 1</b> <br>n-gram based word recommendation system (Part 1)  | 2021/09/02      |            |Dataset: Chinese wiki, 119 entries |
+| Day 29 | <b>Final project 1</b> <br>n-gram based word recommendation system (Part 2)  | 2021/09/03      |            |Interpolation/base-off smoothing|
+| Day 30 | <b>Final project 2</b> <br>News classifier                                   | 2021/09/04      |            |                                |
 
 
 ### Part 2: Deep learning (homework_DL)
@@ -44,4 +45,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 |--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
 | Day 1  | Google colab setup                                                           | 2021/08/31      |            |                                |
 | Day 2  | Tensor operation / Pytorch                                                   | 2021/09/01      |            |                                |
-| Day 3  | Pytorch `autograd` / differentiation / backpropagation                       | 2021/09/02      |            |                                |
+| Day 3  | Pytorch `autograd` / differentiation / backpropagation                       | 2021/09/02      | 2021/09/04 | Added comments                 |
