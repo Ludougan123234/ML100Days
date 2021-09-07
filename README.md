@@ -39,11 +39,14 @@ For the vast majority of the tasks, we are asked only to fill in certain parts o
 | Day 27 | Implementation of random forest and decision tree                            | 2021/08/31      |                                            |
 | Day 28 | Tree-based models using Scikitlearn                                          | 2021/09/01      |                                            |
 | Day 29 | <b>Final project 1</b><br>n-gram based word recommendation system (Part 1)   | 2021/09/02      |                                            |
-| Day 29 | <b>Final project 1</b><br>n-gram based word recommendation system (Part 2)   | 2021/09/03      | interpolation/base-off smoothing            |
-| Day 30 | <b>Final project 2</b><br>News classifier (Part 1)                           | 2021/09/04      | POS, BOW, Cosine similarity                |
-| Day 31 | <b>Final project 2</b><br>News classifier (Part 2)                           | 2021/09/05      | TFIDF and PCA                              |
-| Day 32 | <b>Final project 2</b><br>News classifier (Part 3)                           | 2021/09/06      | PPMI and SVD                               |
-| Day 33 | <b>Final project 3</b><br>Spam filter (Part 1)                               | 2021/09/07      | Comparison of different classifiers        |
+| Day 30 | <b>Final project 1</b><br>n-gram based word recommendation system (Part 2)   | 2021/09/03      | interpolation/base-off smoothing           |
+| Day 31 | <b>Final project 2</b><br>News classifier (Part 1)                           | 2021/09/04      | POS, BOW, Cosine similarity                |
+| Day 32 | <b>Final project 2</b><br>News classifier (Part 2)                           | 2021/09/05      | TFIDF and PCA                              |
+| Day 33 | <b>Final project 2</b><br>News classifier (Part 3)                           | 2021/09/06      | PPMI and SVD                               |
+| Day 34 | <b>Final project 3</b><br>Spam filter (Part 1)                               | 2021/09/07      | Comparison of different classifiers        |
+| Day 35 | <b>Final project 3</b><br>Spam filter (Part 2)                               | 2021/09/08      | Implementation of filter                   |
+| Day 36 | <b>Final project 4</b><br>Sentiment analysis                                 | 2021/09/09      |                                            |
+| Day 37 | <b>Final project 5</b><br>Latent sentiment analysis                          | 2021/09/10      |                                            |
 
 
 ### Part 2: Deep learning (homework_DL)
