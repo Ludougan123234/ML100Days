@@ -1,9 +1,7 @@
 # ML100Days
 ## Natural language processing marathon
 
-Hello there, this is my github repository where I push my assignment for the <b>natural langauge processin online bootcamp</b> hosted by Cupoy. Below is a table showing the topic of each task. The tasks were originally designed to be completed on a daily basis, but as a student, I have to say that keeping the homeworks done on a daily basis is beyond my capacity. So, I do this whenever I can (mostly during winter and summer vacations), and I also try to review the previously completed notebooks when not writing new assignments. 
-
-For the vast majority of the tasks, we are asked only to fill in certain parts of a notebook and are rarely asked to complete the whole notebook from scratch. For such assignment, I have tried to retain the "#your code here#" comments as much as possible, but might accidentally delete some from time to time. Some of the assignments are individual research assignments, where we were only asked to answer a set of problems based on our own understanding of the reading materials given or our own research.
+Hello there, this is my github repository where I push my assignment for the <b>natural langauge processin online bootcamp</b> hosted by Cupoy. Below is a table showing the topic(s) for each of the task given. The tasks were originally designed to be completed on a daily basis, but as a student, I have to say that keeping the homeworks done on a daily basis is beyond my capacity. So, I do this whenever I can (mostly during winter and summer vacations), and I also try to review the previously completed notebooks/tasks when I'm not working on new assignments. 
   
 ### Part 1: Machine learning (homework_ML)
 
@@ -43,10 +41,13 @@ For the vast majority of the tasks, we are asked only to fill in certain parts o
 | Day 31 | <b>Final project 2</b><br>News classifier (Part 1)                           | 2021/09/04      | POS, BOW, Cosine similarity                |
 | Day 32 | <b>Final project 2</b><br>News classifier (Part 2)                           | 2021/09/05      | TFIDF and PCA                              |
 | Day 33 | <b>Final project 2</b><br>News classifier (Part 3)                           | 2021/09/06      | PPMI and SVD                               |
-| Day 34 | <b>Final project 3</b><br>Spam filter (Part 1)                               | 2021/09/07      | Comparison of different classifiers        |
-| Day 35 | <b>Final project 3</b><br>Spam filter (Part 2)                               | 2021/09/08      | Implementation of filter                   |
-| Day 36 | <b>Final project 4</b><br>Sentiment analysis                                 | 2021/09/09      |                                            |
-| Day 37 | <b>Final project 5</b><br>Latent sentiment analysis                          | 2021/09/10      |                                            |
+| Day 34 | <b>Final project 3</b><br>Spam filter (Part 1)                               |       | Comparison of different classifiers        |
+| Day 35 | <b>Final project 3</b><br>Spam filter (Part 2)                               |       | Implementation of filter                   |
+| Day 36 | <b>Final project 4</b><br>Sentiment analysis                                 |       |                                            |
+| Day 37 | <b>Final project 5</b><br>Latent sentiment analysis                          |                 |                                            |
+| Day 38 | <b>Final project 6</b><br>Trigram application (Article spinner)              |                 | Added non-probablistic replacement & 5-gram|
+| Day 39 | <b>Final project 7</b><br>Rule-based chatbot (Single round)                  |                 |                                            |
+| Day 40-42 | <b>Final project 8</b><br>Rule-based chatbot (Multiple-round)             |                 | Google Dialogflow and Line Bot integration |
 
 
 ### Part 2: Deep learning (homework_DL)
