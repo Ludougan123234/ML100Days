@@ -56,3 +56,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 1  | Google colab setup                                                           | 2021/08/31      |            |                                |
 | Day 2  | Tensor operation / Pytorch                                                   | 2021/09/01      |            |                                |
 | Day 3  | Pytorch `autograd` / differentiation / backpropagation                       | 2021/09/02      | 2021/09/04 | Added comments                 |
+|        | Currently away for the semester                                              | -               |            |                                |
