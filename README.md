@@ -51,9 +51,13 @@ Hello there, this is my github repository where I push my assignment for the <b>
 
 
 ### Part 2: Deep learning (homework_DL)
-|Task #  | Task                                                                         | Initial commit  | Update     | Note                           |
-|--------|----------------------------------------------------------------------------- |---------------- |------------|--------------------------------|
-| Day 1  | Google colab setup                                                           | 2021/08/31      |            |                                |
-| Day 2  | Tensor operation / Pytorch                                                   | 2021/09/01      |            |                                |
-| Day 3  | Pytorch `autograd` / differentiation / backpropagation                       | 2021/09/02      | 2021/09/04 | Added comments                 |
+|Task #  | Task                                                                         | Note                           |
+|--------|----------------------------------------------------------------------------- |--------------------------------|
+| Day 1  | Google colab setup                                                           |                                |
+| Day 2  | Tensor operation / Pytorch                                                   |                                |
+| Day 3  | Pytorch `autograd` / differentiation / backpropagation                       | Added comments                 |
+| Day 4  | Pytorch data loading                                                         | Added comments                 |
+| Day 5  | Pytorch data loading                       | Added comments                 |
+| Day 6  | Pytorch Natural language data loading (using torchtext)                        | Added comments                 |
+| Day 7  | Pytorch neural network model building                       | Added comments                 |
 |        | Currently away for the semester                                              | -               |            |                                |
