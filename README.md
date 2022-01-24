@@ -60,4 +60,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 5  | Pytorch data loading                       | Added comments                 |
 | Day 6  | Pytorch Natural language data loading (using torchtext)                        | Added comments                 |
 | Day 7  | Pytorch neural network model building                       | Added comments                 |
-|        | Currently away for the semester                                              | -               |            |                                |
+| Day 8  | Pytorch - model modification, register_forward/backward_hook, andd weight initializatiion| |
