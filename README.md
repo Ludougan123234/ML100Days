@@ -45,23 +45,25 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 35 | <b>Final project 3</b><br>Spam filter (Part 2)                               |    Implementation of filter                   |
 | Day 36 | <b>Final project 4</b><br>Sentiment analysis                                 |                                             |
 | Day 37 | <b>Final project 5</b><br>Latent sentiment analysis                          |                                                      |
-| Day 38 | <b>Final project 6</b><br>Trigram application (Article spinner)              |                Added non-probablistic replacement & 5-gram|
+| Day 38 | <b>Final project 6</b><br>Trigram application (Article spinner)              | Added non-probablistic replacement <br> and 5-gram|
 | Day 39 | <b>Final project 7</b><br>Rule-based chatbot (Single round)                  |                                                            |
 | Day 40-42 | <b>Final project 8</b><br>Rule-based chatbot (Multiple-round)             |                 Google Dialogflow and Line Bot integration |
 
 
 ### Part 2: Deep learning (homework_DL)
-|Task #  | Task                                                                         | Note                           |
-|--------|----------------------------------------------------------------------------- |--------------------------------|
-| Day 1  | Google colab setup                                                           |                                |
-| Day 2  | Tensor operation / Pytorch                                                   |                                |
-| Day 3  | Pytorch `autograd` / differentiation / backpropagation                       | Added comments                 |
-| Day 4  | Pytorch data loading                                                         | Added comments                 |
-| Day 5  | Pytorch data loading                       | Added comments                 |
-| Day 6  | Pytorch Natural language data loading (using torchtext)                        | Added comments                 |
-| Day 7  | Pytorch neural network model building                       | Added comments                 |
-| Day 8  | Pytorch - model modification, register_forward/backward_hook, and weight initializatiion| |
-| Day 9  | Pytorch - model builiding | Added notes on cross-entropy loss |
+| Task #    | Task                                                                         | Note                           |
+|-----------|-----------------------------------------------------------------------------|--------------------------------|
+| Day 1   | Google colab setup                                                           |                                |
+| Day 2   | Tensor operation / Pytorch                                                   |                                |
+| Day 3   | Pytorch `autograd` / differentiation / backpropagation                       | Added comments                 |
+| Day 4   | Pytorch data loading                                                         | Added comments                 |
+| Day 5   | Pytorch data loading                       | Added comments                 |
+| Day 6   | Pytorch Natural language data loading (using torchtext)                        | Added comments                 |
+| Day 7   | Pytorch neural network model building                       | Added comments                 |
+| Day 8   | Pytorch - model modification, `register_forward/backward_hook`<br>, and weight initializatiion| |
+| Day 9   | Pytorch - model builiding | Added notes on cross-entropy loss |
 | Day 10  | Pytorch - model training | |
 | Day 11  | Introduction to word2vec  | |
+| Day 12  | Introduction to CBOW and skipgram  | |
+| Day 13  | Implementing CBOW and skipgram with python  | |
 
