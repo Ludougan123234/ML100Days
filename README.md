@@ -64,4 +64,6 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 9  | Pytorch - model builiding | Added notes on cross-entropy loss |
 | Day 10  | Pytorch - model training | |
 | Day 11  | Introduction to word2vec  | |
+| Day 12  | Introduction to CBOW and skipgram  | |
+| Day 13  | Implementing CBOW and skipgram with python  | |
 
