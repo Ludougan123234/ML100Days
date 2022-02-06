@@ -67,3 +67,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 12  | (Individual research/reading assignment) Introduction to CBOW and skipgram  | |
 | Day 13  | Implementing CBOW and skipgram with python  | |
 | Day 14  | (Individual research/reading assignment) Introduction to accelerating word2vec  | |
+| Day 15  | Implementing accelerated word2vec using subsampling/Training a skipgram model | |
