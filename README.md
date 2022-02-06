@@ -63,7 +63,7 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 8   | Pytorch - model modification, `register_forward/backward_hook`<br>, and weight initializatiion| |
 | Day 9   | Pytorch - model builiding | Added notes on cross-entropy loss |
 | Day 10  | Pytorch - model training | |
-| Day 11  | Introduction to word2vec  | |
-| Day 12  | Introduction to CBOW and skipgram  | |
+| Day 11  | (Individual research/reading assignment) Introduction to word2vec  | |
+| Day 12  | (Individual research/reading assignment) Introduction to CBOW and skipgram  | |
 | Day 13  | Implementing CBOW and skipgram with python  | |
-
+| Day 14  | (Individual research/reading assignment) Introduction to accelerating word2vec  | |
