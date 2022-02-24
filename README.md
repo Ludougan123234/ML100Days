@@ -69,3 +69,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 14  | (Individual research/reading assignment) Introduction to accelerating word2vec  | |
 | Day 15  | Implementing accelerated word2vec using subsampling/Training a skipgram model | |
 | Day 16  | Introduction to `gensim` natural language processing toolkit | |
+| Day 17  | Using GloVe model with `gensim` | |
