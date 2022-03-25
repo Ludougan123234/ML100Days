@@ -70,3 +70,4 @@ Hello there, this is my github repository where I push my assignment for the <b>
 | Day 15  | Implementing accelerated word2vec using subsampling/Training a skipgram model | |
 | Day 16  | Introduction to `gensim` natural language processing toolkit | |
 | Day 17  | Using GloVe model with `gensim` | |
+| Day 18  | Introduction to Recurrent Neural Network (RNN) | |
